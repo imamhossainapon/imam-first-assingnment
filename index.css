@@ -9,4 +9,4 @@ nav>a{ text-decoration: none; color: rgb(13,19,33);}.left{font-size: 28px; font-
  .content{ background-image: url(assets/Hero-bg.png); }
  .ddd{ height:auto; width: auto;  margin: 30px auto;  display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 35px 530px; gap:50px ;}
   p,h3{ display: block; text-align: center;margin-top: 0px;}
-  .button1{ display: flex ; justify-content: center; } button{ background-color: rgb(13,19,33); height: 60px; width: 200px; color: white; margin: auto;}
+  .button1{ display: flex ; justify-content: center; padding-bottom: 20px; } button{ background-color: rgb(13,19,33); height: 60px; width: 200px; color: white; margin: auto;}
